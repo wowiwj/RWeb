@@ -79,6 +79,9 @@
           awesome-vue
         </a>
       </li>
+      <li>
+        <router-link to="/login" replace>登录</router-link>
+      </li>
     </ul>
   </div>
 </template>
